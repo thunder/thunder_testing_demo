@@ -22,7 +22,6 @@
         }
     ],
     "require": {
-        "drupal/better_normalizers": "^1.0",
         "drupal/default_content": "^1.0"
     }
 }
