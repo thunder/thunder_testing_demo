@@ -1,0 +1,29 @@
+{
+    "name": "drupal/thunder_testing_demo",
+    "description": "This module provides demo content for testing of Thunder distribution.",
+    "type": "drupal-module",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Mladen Todorovic",
+            "email": "mladen.todorovic@burda.com"
+        },
+        {
+            "name": "Daniel Bosen",
+            "email": "daniel.bosen@burda.com"
+        },
+        {
+            "name": "Christian Fritsch",
+            "email": "christian.fritsch@burda.com"
+        },
+        {
+            "name": "Volker Killesreiter",
+            "email": "volker.killesreiter@burda.com"
+        }
+    ],
+    "require": {
+        "drupal/better_normalizers": "^1.0",
+        "drupal/default_content": "^1.0"
+    }
+}
+
