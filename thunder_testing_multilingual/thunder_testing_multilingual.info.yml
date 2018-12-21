@@ -1,0 +1,7 @@
+name: Thunder Testing Multilingual
+type: module
+description: Provide configuration with the purpose of testing Thunder distribution with content translation.
+package: Thunder
+core: 8.x
+dependencies:
+- content_translation:content_translation
