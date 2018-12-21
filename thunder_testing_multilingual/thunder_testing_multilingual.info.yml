@@ -4,4 +4,5 @@ description: Provide configuration with the purpose of testing Thunder distribut
 package: Thunder
 core: 8.x
 dependencies:
-- content_translation:content_translation
+- drupal:content_translation
+- thunder:thunder_article
