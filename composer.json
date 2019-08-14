@@ -1,6 +1,6 @@
 {
-    "name": "drupal/thunder_testing_demo",
-    "description": "This module provides demo content for testing of Thunder distribution.",
+    "name": "thunder/thunder_testing_demo",
+    "description": "Provides demo content for testing of Thunder distribution.",
     "type": "drupal-module",
     "license": "GPL-2.0-or-later",
     "authors": [
@@ -22,6 +22,7 @@
         }
     ],
     "require": {
+        "drupal/core": "~8",
         "drupal/default_content": "^1.0"
     }
 }
