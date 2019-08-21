@@ -1,0 +1,17 @@
+<?php
+
+/**
+ * @file
+ * Install file of the thunder testing demo module.
+ */
+
+/**
+ * Implements hook_install().
+ */
+function thunder_testing_demo_install() {
+  // Set default pages.
+  \Drupal::configFactory()->getEditable('system.site')
+    ->set('page.403', '/node/3')
+    ->set('page.404', '/node/4')
+    ->save(TRUE);
+}
