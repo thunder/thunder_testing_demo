@@ -1,5 +1,0 @@
-services:
-  thunder_testing_demo.import_subscriber:
-    class: Drupal\thunder_testing_demo\EventSubscriber\ImportSubscriber
-    tags:
-      - { name: 'event_subscriber' }
