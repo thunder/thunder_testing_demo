@@ -7,3 +7,4 @@ dependencies:
   - better_normalizers:better_normalizers
   - default_content:default_content
   - drupal:help
+  - drupal:tour
