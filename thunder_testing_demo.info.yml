@@ -2,7 +2,7 @@ name: Thunder Testing Demo
 type: module
 description: Provide demo content with purpose of testing Thunder distribution.
 package: Thunder
-core: 8.x
+core_version_requirement: ^8.7.7 || ^9
 dependencies:
   - better_normalizers:better_normalizers
   - default_content:default_content

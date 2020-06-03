@@ -22,7 +22,6 @@
         }
     ],
     "require": {
-        "drupal/core": "~8",
         "drupal/default_content": "^1.0"
     }
 }
