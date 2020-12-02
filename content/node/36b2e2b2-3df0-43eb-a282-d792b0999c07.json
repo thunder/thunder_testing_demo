@@ -170,22 +170,6 @@
                         "href": ""
                     },
                     "type": {
-                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/media"
-                    }
-                },
-                "uuid": [
-                    {
-                        "value": "c49c3b83-9863-4109-ad9e-c3198d7cd640"
-                    }
-                ],
-                "target_revision_id": "8"
-            },
-            {
-                "_links": {
-                    "self": {
-                        "href": ""
-                    },
-                    "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/twitter"
                     }
                 },
