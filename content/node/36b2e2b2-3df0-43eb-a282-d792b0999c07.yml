@@ -121,6 +121,61 @@ default:
           field_media:
             -
               entity: f74460a3-1aac-4382-814b-395bfeb75dca
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 99c4a942-3a64-4cb1-922f-9d33b04c3bfc
+          bundle: link
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1620294612
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_link:
+            -
+              uri: 'https://drupal.org/'
+              title: Drupal.org
+              options: {  }
+            -
+              uri: 'https://thunder.org'
+              title: Thunder.org
+              options: {  }
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: cc93e914-9a0d-4083-ade6-077072a3c2a6
+          bundle: quote
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1620294661
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_text:
+            -
+              value: "<p><em>\"Flying is learning how to throw yourself at the ground and miss\" (Douglas Adams)</em>.</p>\r\n"
+              format: basic_html
   field_seo_title:
     -
       value: 'Come to DrupalCon New Orleans'
