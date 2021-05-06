@@ -1,0 +1,110 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 94ad928b-3ec8-4bcb-b617-ab1607bf69cb
+  bundle: article
+  default_langcode: en
+  depends:
+    0c604560-c591-4c48-9762-78ce833ec1b9: user
+    bfc251bc-de35-467d-af44-1f7a7012b845: taxonomy_term
+    111715fd-b6b3-4aaa-9947-8fd4782c63a9: media
+    02f65ced-6e23-4cba-84a2-9c66fc346481: taxonomy_term
+    5378c127-e8b2-4242-877d-d982736a237b: media
+default:
+  revision_uid:
+    -
+      entity: 0c604560-c591-4c48-9762-78ce833ec1b9
+  status:
+    -
+      value: true
+  uid:
+    -
+      entity: 0c604560-c591-4c48-9762-78ce833ec1b9
+  title:
+    -
+      value: 'Duis autem vel eum iriure'
+  created:
+    -
+      value: 1484238416
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  path:
+    -
+      alias: /duis-autem-vel-eum-iriure
+      langcode: en
+      pathauto: 1
+  field_channel:
+    -
+      entity: bfc251bc-de35-467d-af44-1f7a7012b845
+  field_paragraphs:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: a3f74ea4-9794-4ca9-ba7e-192ff3a1d0a2
+          bundle: image
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1463125944
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_image:
+            -
+              entity: 111715fd-b6b3-4aaa-9947-8fd4782c63a9
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 87ca6d31-c313-4af4-920d-3f44e3255e5a
+          bundle: text
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1463125939
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_text:
+            -
+              value: "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&nbsp;</p>\r\n"
+              format: basic_html
+  field_seo_title:
+    -
+      value: 'Duis autem vel eum iriure'
+  field_tags:
+    -
+      entity: 02f65ced-6e23-4cba-84a2-9c66fc346481
+  field_teaser_media:
+    -
+      entity: 5378c127-e8b2-4242-877d-d982736a237b
+  field_teaser_text:
+    -
+      value: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.'

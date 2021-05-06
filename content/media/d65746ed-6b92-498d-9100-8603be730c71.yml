@@ -1,0 +1,38 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: d65746ed-6b92-498d-9100-8603be730c71
+  bundle: gallery
+  default_langcode: en
+  depends:
+    23f6d444-ece1-465d-a667-b1fb80e641d3: media
+    5bd93c54-469b-4ac7-927b-cf6bb1dcf3dd: media
+    a4b2fa51-8340-4982-b792-92e060b71eb9: media
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: 'Lorem ipsum dolor sit amet'
+  created:
+    -
+      value: 1620291171
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 1
+  field_media_images:
+    -
+      entity: 23f6d444-ece1-465d-a667-b1fb80e641d3
+    -
+      entity: 5bd93c54-469b-4ac7-927b-cf6bb1dcf3dd
+    -
+      entity: a4b2fa51-8340-4982-b792-92e060b71eb9

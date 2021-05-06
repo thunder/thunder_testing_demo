@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 8c9e5aca-a876-4f95-b54e-aa22aa50d36a
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: 26357237683_0891e46ba5_k.jpg
+  uri:
+    -
+      value: 'public://2016-05/26357237683_0891e46ba5_k_2.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 1146847
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1463084576

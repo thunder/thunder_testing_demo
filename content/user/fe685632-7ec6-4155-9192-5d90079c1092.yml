@@ -1,0 +1,40 @@
+_meta:
+  version: '1.0'
+  entity_type: user
+  uuid: fe685632-7ec6-4155-9192-5d90079c1092
+  default_langcode: en
+default:
+  preferred_langcode:
+    -
+      value: en
+  name:
+    -
+      value: mladen-restricted-editor
+  pass:
+    -
+      value: $S$E1zRaaRoIy6zdbHCA5eCTM/JyEftvWb5VWL8DAb2C6KW7RvRWMiC
+      existing: ''
+      pre_hashed: false
+  timezone:
+    -
+      value: UTC
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 0
+  access:
+    -
+      value: 0
+  login:
+    -
+      value: 0
+  roles:
+    -
+      target_id: restricted_editor
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 1

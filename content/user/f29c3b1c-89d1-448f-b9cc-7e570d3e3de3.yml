@@ -1,0 +1,40 @@
+_meta:
+  version: '1.0'
+  entity_type: user
+  uuid: f29c3b1c-89d1-448f-b9cc-7e570d3e3de3
+  default_langcode: en
+default:
+  preferred_langcode:
+    -
+      value: en
+  name:
+    -
+      value: christian-seo
+  pass:
+    -
+      value: $S$E48yWBq0ixZ5.C6OlKMSeGG3mNMUwfAN13wg/tlXkUn0aUQdXaym
+      existing: ''
+      pre_hashed: false
+  timezone:
+    -
+      value: UTC
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 0
+  access:
+    -
+      value: 0
+  login:
+    -
+      value: 0
+  roles:
+    -
+      target_id: seo
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 1

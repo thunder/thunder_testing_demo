@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: d29b4e9b-2370-4cd7-8ace-1289fc829ed6
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: thunder-city.jpg
+  uri:
+    -
+      value: 'public://2016-05/thunder-city_2.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 245233
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1463076979

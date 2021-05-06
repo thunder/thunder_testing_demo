@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: c56ce700-ffb5-4e5f-8631-acf2389a813c
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: picjumbo.com_P1000203.jpg
+  uri:
+    -
+      value: 'public://2016-05/picjumbo.com_P1000203_2.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 655961
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1463125933

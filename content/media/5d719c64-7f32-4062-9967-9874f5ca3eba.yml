@@ -1,0 +1,36 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 5d719c64-7f32-4062-9967-9874f5ca3eba
+  bundle: image
+  default_langcode: en
+  depends:
+    d29b4e9b-2370-4cd7-8ace-1289fc829ed6: file
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: 'Thunder City'
+  created:
+    -
+      value: 1463076982
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 1
+  field_image:
+    -
+      entity: d29b4e9b-2370-4cd7-8ace-1289fc829ed6
+      alt: ''
+      title: ''
+      width: 2016
+      height: 1124

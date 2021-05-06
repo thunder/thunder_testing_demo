@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: a317f3cc-34c8-4f27-badf-521b144d4179
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: 26315068204_24ffa6cfc4_o.jpg
+  uri:
+    -
+      value: 'public://2016-05/26315068204_24ffa6cfc4_o_2.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 1483481
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1463084488

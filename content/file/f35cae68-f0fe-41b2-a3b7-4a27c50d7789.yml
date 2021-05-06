@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: f35cae68-f0fe-41b2-a3b7-4a27c50d7789
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: 26893182561_1281c142bb_k.jpg
+  uri:
+    -
+      value: 'public://2016-05/26893182561_1281c142bb_k_2.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 1550465
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1463084553
