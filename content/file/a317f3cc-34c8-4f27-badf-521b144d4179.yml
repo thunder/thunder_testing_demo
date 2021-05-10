@@ -12,7 +12,7 @@ default:
       value: 26315068204_24ffa6cfc4_o.jpg
   uri:
     -
-      value: 'public://2016-05/26315068204_24ffa6cfc4_o_2.jpg'
+      value: 'public://2016-05/26315068204_24ffa6cfc4_o.jpg'
   filemime:
     -
       value: image/jpeg

@@ -12,7 +12,7 @@ default:
       value: 26871881601_e356175aee_k.jpg
   uri:
     -
-      value: 'public://2016-05/26871881601_e356175aee_k_2.jpg'
+      value: 'public://2016-05/26871881601_e356175aee_k.jpg'
   filemime:
     -
       value: image/jpeg

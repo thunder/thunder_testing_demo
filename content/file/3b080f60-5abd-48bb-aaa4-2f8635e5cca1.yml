@@ -12,7 +12,7 @@ default:
       value: logo-front.png
   uri:
     -
-      value: 'public://2016-05/logo-front_2.png'
+      value: 'public://2016-05/logo-front.png'
   filemime:
     -
       value: image/png

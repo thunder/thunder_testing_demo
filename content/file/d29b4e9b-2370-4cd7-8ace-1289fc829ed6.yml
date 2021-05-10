@@ -12,7 +12,7 @@ default:
       value: thunder-city.jpg
   uri:
     -
-      value: 'public://2016-05/thunder-city_2.jpg'
+      value: 'public://2016-05/thunder-city.jpg'
   filemime:
     -
       value: image/jpeg
