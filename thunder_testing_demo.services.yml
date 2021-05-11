@@ -1,0 +1,5 @@
+services:
+  thunder_testing_demo.default_content_subscriber:
+    class: Drupal\thunder_testing_demo\EventSubscriber\DefaultContentImportSubscriber
+    arguments: ['@config.factory']
+    tags: [{ name: event_subscriber }]
