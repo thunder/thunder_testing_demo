@@ -16,7 +16,7 @@ default:
       value: main
   link:
     -
-      uri: 'internal:/taxonomy/term/2'
+      uri: 'internal:/events'
       title: ''
       options: {  }
   external:

@@ -16,7 +16,7 @@ default:
       value: main
   link:
     -
-      uri: 'internal:/taxonomy/term/1'
+      uri: 'internal:/news'
       title: ''
       options: {  }
   external:
