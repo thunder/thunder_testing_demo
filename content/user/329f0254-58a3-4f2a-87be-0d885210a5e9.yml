@@ -1,0 +1,40 @@
+_meta:
+  version: '1.0'
+  entity_type: user
+  uuid: 329f0254-58a3-4f2a-87be-0d885210a5e9
+  default_langcode: en
+default:
+  preferred_langcode:
+    -
+      value: en
+  name:
+    -
+      value: volker-editor
+  pass:
+    -
+      value: $S$E133VYdSy58HAaK.Ct9fPO0ZtG0N3ksgGpvYbEsxRxMaaWEQqrF2
+      existing: ''
+      pre_hashed: false
+  timezone:
+    -
+      value: UTC
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 0
+  access:
+    -
+      value: 0
+  login:
+    -
+      value: 0
+  roles:
+    -
+      target_id: editor
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 1

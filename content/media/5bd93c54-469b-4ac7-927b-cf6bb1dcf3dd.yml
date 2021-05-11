@@ -1,0 +1,36 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 5bd93c54-469b-4ac7-927b-cf6bb1dcf3dd
+  bundle: image
+  default_langcode: en
+  depends:
+    9bcb51a6-6f48-485f-90df-0e021c2bbe12: file
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: 'Lorem ipsum dolor sit amet 2'
+  created:
+    -
+      value: 1463125220
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 1
+  field_image:
+    -
+      entity: 9bcb51a6-6f48-485f-90df-0e021c2bbe12
+      alt: ''
+      title: ''
+      width: 1619
+      height: 1080

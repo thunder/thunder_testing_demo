@@ -1,0 +1,44 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: df67621b-518f-4159-a59e-1bad0700800c
+  bundle: gallery
+  default_langcode: en
+  depends:
+    159797c5-d9f9-4e27-b425-0f703a8a416d: media
+    f5f7fc5d-b2b8-426a-adf3-ee6aff6379da: media
+    05048c57-942d-4251-ad12-ce562f8c79a0: media
+    483760b8-64c5-4035-9fe2-b15196020d69: media
+    507fcccf-b8ff-47d0-a704-2ee2de1dcab5: media
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: 'DrupalCon Gallery'
+  created:
+    -
+      value: 1620291171
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 1
+  field_media_images:
+    -
+      entity: 159797c5-d9f9-4e27-b425-0f703a8a416d
+    -
+      entity: f5f7fc5d-b2b8-426a-adf3-ee6aff6379da
+    -
+      entity: 05048c57-942d-4251-ad12-ce562f8c79a0
+    -
+      entity: 483760b8-64c5-4035-9fe2-b15196020d69
+    -
+      entity: 507fcccf-b8ff-47d0-a704-2ee2de1dcab5

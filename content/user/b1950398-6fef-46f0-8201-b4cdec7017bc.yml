@@ -1,0 +1,40 @@
+_meta:
+  version: '1.0'
+  entity_type: user
+  uuid: b1950398-6fef-46f0-8201-b4cdec7017bc
+  default_langcode: en
+default:
+  preferred_langcode:
+    -
+      value: en
+  name:
+    -
+      value: karlo-seo
+  pass:
+    -
+      value: $S$ErcrJk1E40b7TICZkCd5DkbL6owiSi8qanVQKSpj/.wFyAVWfZXY
+      existing: ''
+      pre_hashed: false
+  timezone:
+    -
+      value: UTC
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 0
+  access:
+    -
+      value: 0
+  login:
+    -
+      value: 0
+  roles:
+    -
+      target_id: seo
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 1

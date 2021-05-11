@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 2b8597e7-929b-47b2-83a8-0d52b0459d50
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: picjumbo.com_HNCK7731.jpg
+  uri:
+    -
+      value: 'public://2016-05/picjumbo.com_HNCK7731.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 1466294
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1463125229

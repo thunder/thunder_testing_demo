@@ -1,0 +1,40 @@
+_meta:
+  version: '1.0'
+  entity_type: user
+  uuid: 52baf548-20ad-4c97-a927-8f58b3546bf2
+  default_langcode: en
+default:
+  preferred_langcode:
+    -
+      value: en
+  name:
+    -
+      value: karlo-admin
+  pass:
+    -
+      value: $S$EaVoUYqoc3I0.48p7WCIRmK2Lfy3ZRTjcU6d9BJiKoJvmYVCjhww
+      existing: ''
+      pre_hashed: false
+  timezone:
+    -
+      value: UTC
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 0
+  access:
+    -
+      value: 0
+  login:
+    -
+      value: 0
+  roles:
+    -
+      target_id: administrator
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 1

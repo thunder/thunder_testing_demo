@@ -1,0 +1,40 @@
+_meta:
+  version: '1.0'
+  entity_type: user
+  uuid: 70cc7031-100b-4cd5-a08e-8d6915ccf980
+  default_langcode: en
+default:
+  preferred_langcode:
+    -
+      value: en
+  name:
+    -
+      value: karlo-editor
+  pass:
+    -
+      value: $S$E74rGt2ClrYXPz1VeEN.qABmAP.LBPviHbIISNsbpQpvNSx3I/sO
+      existing: ''
+      pre_hashed: false
+  timezone:
+    -
+      value: UTC
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 0
+  access:
+    -
+      value: 0
+  login:
+    -
+      value: 0
+  roles:
+    -
+      target_id: editor
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 1

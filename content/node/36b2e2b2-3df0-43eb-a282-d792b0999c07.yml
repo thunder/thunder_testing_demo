@@ -1,0 +1,190 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 36b2e2b2-3df0-43eb-a282-d792b0999c07
+  bundle: article
+  default_langcode: en
+  depends:
+    be8e7a25-8a41-4bda-a854-b4b9bb1b0a02: user
+    0bb70443-8172-4d8e-9335-2876bc32e356: taxonomy_term
+    df67621b-518f-4159-a59e-1bad0700800c: media
+    f74460a3-1aac-4382-814b-395bfeb75dca: media
+    35bdba6e-9b45-472a-8fda-11e7e69de71b: taxonomy_term
+    a4c1035a-5b27-4713-8ba3-40ba5942486d: media
+default:
+  revision_uid:
+    -
+      entity: be8e7a25-8a41-4bda-a854-b4b9bb1b0a02
+  status:
+    -
+      value: true
+  uid:
+    -
+      entity: be8e7a25-8a41-4bda-a854-b4b9bb1b0a02
+  title:
+    -
+      value: 'Come to DrupalCon New Orleans'
+  created:
+    -
+      value: 1484238418
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  moderation_state:
+    -
+      value: published
+  path:
+    -
+      alias: /come-drupalcon-new-orleans
+      langcode: en
+      pathauto: 1
+  field_channel:
+    -
+      entity: 0bb70443-8172-4d8e-9335-2876bc32e356
+  field_paragraphs:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 698fa476-f9ba-4404-a3f1-cfaef81178c5
+          bundle: gallery
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1463084462
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_media:
+            -
+              entity: df67621b-518f-4159-a59e-1bad0700800c
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 1e0bf060-a2af-422a-ad51-a739f7bc158a
+          bundle: text
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1463083946
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_text:
+            -
+              value: "<h2>About</h2>\r\n\r\n<p>The Drupal community is one of the largest open source communities in the world. We're developers, designers, strategists, coordinators, editors, translators, and more. Each year, we meet at DrupalCamps, meetups, and other events in more than 200 countries. But once a year, our community comes together at the biggest Drupal event in the world: DrupalCon North America. This year, from May 9-13, we'll be in New Orleans.</p>\r\n\r\n<h2>Make something amazing, for anyone</h2>\r\n\r\n<p>Bring your questions and challenges. At DrupalCon, you'll learn to make, think about, and do things differently with Drupal. There are&nbsp;<a href=\"https://events.drupal.org/neworleans2016/tracks\">13 session tracks</a>, featuring topics like UX, DevOps, project management, and PHP. And each track includes sessions for beginners, experts, and everyone between. You can also join full-day&nbsp;<a href=\"https://events.drupal.org/neworleans2016/summits\">summits</a>&nbsp;or choose from 15&nbsp;<a href=\"https://events.drupal.org/neworleans2016/training\">training courses</a>. You'll leave New Orleans inspired and empowered to create amazing web experiences.</p>\r\n\r\n<h2>Introduce yourself</h2>\r\n\r\n<p>The best part of DrupalCon is the people you'll meet. Finally give a high-five to people you've only known by their Drupal.org username. Get great insight from industry leaders like Sara Wachter-Boettcher, and Drupal's founder, Dries Buytaert. Ask any of the 175 speakers the questions you've had about site building, case studies, and more. And as each conference day ends, the<a href=\"https://events.drupal.org/neworleans2016/social-events\">events continue</a>. Join us at the opening reception, meet the Women in Drupal team, or test your knowledge on trivia night. Our community is excited to meet you.</p>\r\n\r\n<h2>Give back to the community</h2>\r\n\r\n<p>DrupalCon is an event where anyone can learn to use Drupal to make the internet a better place. And you won't have to wait until DrupalCon is over to use what you learn. Put your ideas to work right away at&nbsp;<a href=\"https://events.drupal.org/neworleans2016/sprints\">sprints</a>. (Tip: you don't have to be a developer, or have ever joined a sprint before.) You can also help people feel welcome by having fun at&nbsp;<a href=\"https://events.drupal.org/neworleans2016/birds-feather\">Birds of a Feather sessions</a>&nbsp;(BoF's). Some BoF's—like last year's Knitting BoF—are all about the chance to create relationships.</p>\r\n\r\n<h2>Enjoy New Orleans</h2>\r\n\r\n<p>New Orleans has more than a few nicknames. But no matter what you call it, its history, culture, and people make it one of the&nbsp;most celebrated U.S. cities.&nbsp;<a href=\"https://events.drupal.org/neworleans2016/travel\">The convention center</a>&nbsp;is steps away from the famous French Quarter. It's also just a short ride away from the Garden District. There's more to explore than we can list.</p>\r\n"
+              format: basic_html
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 17bf4b1a-08b7-461e-9990-667d465d5509
+          bundle: twitter
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1470848897
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_media:
+            -
+              entity: f74460a3-1aac-4382-814b-395bfeb75dca
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 99c4a942-3a64-4cb1-922f-9d33b04c3bfc
+          bundle: link
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1620294612
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_link:
+            -
+              uri: 'https://drupal.org/'
+              title: Drupal.org
+              options: {  }
+            -
+              uri: 'https://thunder.org'
+              title: Thunder.org
+              options: {  }
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: cc93e914-9a0d-4083-ade6-077072a3c2a6
+          bundle: quote
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1620294661
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_text:
+            -
+              value: "<p><em>\"Flying is learning how to throw yourself at the ground and miss\" (Douglas Adams)</em>.</p>\r\n"
+              format: basic_html
+  field_seo_title:
+    -
+      value: 'Come to DrupalCon New Orleans'
+  field_tags:
+    -
+      entity: 35bdba6e-9b45-472a-8fda-11e7e69de71b
+  field_teaser_media:
+    -
+      entity: a4c1035a-5b27-4713-8ba3-40ba5942486d
+  field_teaser_text:
+    -
+      value: 'The Drupal community is one of the largest open source communities in the world. We''re developers, designers, strategists, coordinators, editors, translators, and more. Each year, we meet at DrupalCamps, meetups, and other events in more than 200 countries. But once a year, our community comes together at the biggest Drupal event in the world: DrupalCon North America. This year, from May 9-13, we''ll be in New Orleans.'

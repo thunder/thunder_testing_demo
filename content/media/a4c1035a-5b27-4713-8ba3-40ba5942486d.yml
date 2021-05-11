@@ -1,0 +1,36 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: a4c1035a-5b27-4713-8ba3-40ba5942486d
+  bundle: image
+  default_langcode: en
+  depends:
+    3b080f60-5abd-48bb-aaa4-2f8635e5cca1: file
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: 'DrupalCon Logo'
+  created:
+    -
+      value: 1463084064
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 1
+  field_image:
+    -
+      entity: 3b080f60-5abd-48bb-aaa4-2f8635e5cca1
+      alt: ''
+      title: ''
+      width: 800
+      height: 420

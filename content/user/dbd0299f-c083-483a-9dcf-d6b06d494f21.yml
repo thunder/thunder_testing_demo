@@ -1,0 +1,40 @@
+_meta:
+  version: '1.0'
+  entity_type: user
+  uuid: dbd0299f-c083-483a-9dcf-d6b06d494f21
+  default_langcode: en
+default:
+  preferred_langcode:
+    -
+      value: en
+  name:
+    -
+      value: sam
+  pass:
+    -
+      value: $S$EhuWI0AJGGN.b3P0P9xbyC3YNAUo00vefJ8PFFGwF4XpxR/GCGMW
+      existing: ''
+      pre_hashed: false
+  timezone:
+    -
+      value: UTC
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 0
+  access:
+    -
+      value: 0
+  login:
+    -
+      value: 0
+  roles:
+    -
+      target_id: seo
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 1

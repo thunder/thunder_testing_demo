@@ -1,0 +1,40 @@
+_meta:
+  version: '1.0'
+  entity_type: user
+  uuid: 4b415afe-921f-4eae-8b22-e4ae20826ef7
+  default_langcode: en
+default:
+  preferred_langcode:
+    -
+      value: en
+  name:
+    -
+      value: karlo-restricted-editor
+  pass:
+    -
+      value: $S$E8gjeSn7ncbLuRL7JPQfJ3Ttjs2YBtbQZymc.syKGp5tZhTiYy37
+      existing: ''
+      pre_hashed: false
+  timezone:
+    -
+      value: UTC
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 0
+  access:
+    -
+      value: 0
+  login:
+    -
+      value: 0
+  roles:
+    -
+      target_id: restricted_editor
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 1

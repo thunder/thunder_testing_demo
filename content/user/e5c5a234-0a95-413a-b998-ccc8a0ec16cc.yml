@@ -1,0 +1,40 @@
+_meta:
+  version: '1.0'
+  entity_type: user
+  uuid: e5c5a234-0a95-413a-b998-ccc8a0ec16cc
+  default_langcode: en
+default:
+  preferred_langcode:
+    -
+      value: en
+  name:
+    -
+      value: frodo
+  pass:
+    -
+      value: $S$EA8aB4NvWbjHSxLLoRwnqpQEc5C49VObRnwmIhlZZpaB40badCur
+      existing: ''
+      pre_hashed: false
+  timezone:
+    -
+      value: UTC
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 0
+  access:
+    -
+      value: 0
+  login:
+    -
+      value: 0
+  roles:
+    -
+      target_id: seo
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 1

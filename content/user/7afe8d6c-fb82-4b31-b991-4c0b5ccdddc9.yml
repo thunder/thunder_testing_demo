@@ -1,0 +1,40 @@
+_meta:
+  version: '1.0'
+  entity_type: user
+  uuid: 7afe8d6c-fb82-4b31-b991-4c0b5ccdddc9
+  default_langcode: en
+default:
+  preferred_langcode:
+    -
+      value: en
+  name:
+    -
+      value: mladen-editor
+  pass:
+    -
+      value: $S$EbGGhfVdpq3RPaWKH1ZTfiLsrWI96YPxuPWYfON3NbQ3GvQ.kDIp
+      existing: ''
+      pre_hashed: false
+  timezone:
+    -
+      value: UTC
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 0
+  access:
+    -
+      value: 0
+  login:
+    -
+      value: 0
+  roles:
+    -
+      target_id: editor
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 1

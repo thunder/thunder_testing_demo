@@ -1,0 +1,40 @@
+_meta:
+  version: '1.0'
+  entity_type: user
+  uuid: 9b857499-dc6d-49b8-8de8-ac1a985b04e4
+  default_langcode: en
+default:
+  preferred_langcode:
+    -
+      value: en
+  name:
+    -
+      value: clyde
+  pass:
+    -
+      value: $S$EqMVyCm0f65TUQCLVCVlDiTEFfiqi9v7R3OXOxc/30xO1SwxziTT
+      existing: ''
+      pre_hashed: false
+  timezone:
+    -
+      value: UTC
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 0
+  access:
+    -
+      value: 0
+  login:
+    -
+      value: 0
+  roles:
+    -
+      target_id: restricted_editor
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 1

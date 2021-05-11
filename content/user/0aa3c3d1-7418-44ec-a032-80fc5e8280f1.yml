@@ -1,0 +1,40 @@
+_meta:
+  version: '1.0'
+  entity_type: user
+  uuid: 0aa3c3d1-7418-44ec-a032-80fc5e8280f1
+  default_langcode: en
+default:
+  preferred_langcode:
+    -
+      value: en
+  name:
+    -
+      value: august
+  pass:
+    -
+      value: $S$E1ADQakrNmfyiZgBaQgv1h3/JXuk4pVlB4BWW9ULgOS91P1Jb.oZ
+      existing: ''
+      pre_hashed: false
+  timezone:
+    -
+      value: UTC
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 0
+  access:
+    -
+      value: 0
+  login:
+    -
+      value: 0
+  roles:
+    -
+      target_id: editor
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 1

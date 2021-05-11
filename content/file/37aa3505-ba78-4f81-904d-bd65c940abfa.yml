@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 37aa3505-ba78-4f81-904d-bd65c940abfa
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: picjumbo.com_P1020591.jpg
+  uri:
+    -
+      value: 'public://2016-05/picjumbo.com_P1020591.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 1426224
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1463125201

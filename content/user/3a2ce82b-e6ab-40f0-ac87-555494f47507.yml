@@ -1,0 +1,40 @@
+_meta:
+  version: '1.0'
+  entity_type: user
+  uuid: 3a2ce82b-e6ab-40f0-ac87-555494f47507
+  default_langcode: en
+default:
+  preferred_langcode:
+    -
+      value: en
+  name:
+    -
+      value: tina
+  pass:
+    -
+      value: $S$EEgqHWxkYUOs6r.F0LkBVVxURkkjzwk6Z3X4IN04CoQ1zKmep8.L
+      existing: ''
+      pre_hashed: false
+  timezone:
+    -
+      value: UTC
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 0
+  access:
+    -
+      value: 0
+  login:
+    -
+      value: 0
+  roles:
+    -
+      target_id: editor
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 1

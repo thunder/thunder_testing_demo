@@ -1,0 +1,40 @@
+_meta:
+  version: '1.0'
+  entity_type: user
+  uuid: 2b09e609-fe7d-4b6b-aa29-687243d3048c
+  default_langcode: en
+default:
+  preferred_langcode:
+    -
+      value: en
+  name:
+    -
+      value: christian-restricted-editor
+  pass:
+    -
+      value: $S$EHYARdcQE05JnsZr1NGQek3b7GcVLFmIX.Ir28GSH9RRLZh8lbhf
+      existing: ''
+      pre_hashed: false
+  timezone:
+    -
+      value: UTC
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 0
+  access:
+    -
+      value: 0
+  login:
+    -
+      value: 0
+  roles:
+    -
+      target_id: restricted_editor
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 1

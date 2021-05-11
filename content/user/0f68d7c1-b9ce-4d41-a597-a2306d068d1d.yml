@@ -1,0 +1,40 @@
+_meta:
+  version: '1.0'
+  entity_type: user
+  uuid: 0f68d7c1-b9ce-4d41-a597-a2306d068d1d
+  default_langcode: en
+default:
+  preferred_langcode:
+    -
+      value: en
+  name:
+    -
+      value: daniel-seo
+  pass:
+    -
+      value: $S$EK3oB8EjiUQqziSyKhOnkwLj4u8/QItcA53wMo6TpHN8PoyfFvDz
+      existing: ''
+      pre_hashed: false
+  timezone:
+    -
+      value: UTC
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 0
+  access:
+    -
+      value: 0
+  login:
+    -
+      value: 0
+  roles:
+    -
+      target_id: seo
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 1

@@ -1,0 +1,36 @@
+_meta:
+  version: '1.0'
+  entity_type: media
+  uuid: 111715fd-b6b3-4aaa-9947-8fd4782c63a9
+  bundle: image
+  default_langcode: en
+  depends:
+    71acee69-c934-4ee9-87e7-e859f0a11fb3: file
+default:
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  name:
+    -
+      value: 'Duis autem vel eum iriure 1'
+  created:
+    -
+      value: 1463125999
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 1
+  field_image:
+    -
+      entity: 71acee69-c934-4ee9-87e7-e859f0a11fb3
+      alt: ''
+      title: ''
+      width: 1620
+      height: 1080

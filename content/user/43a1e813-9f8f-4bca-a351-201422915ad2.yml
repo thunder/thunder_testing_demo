@@ -1,0 +1,40 @@
+_meta:
+  version: '1.0'
+  entity_type: user
+  uuid: 43a1e813-9f8f-4bca-a351-201422915ad2
+  default_langcode: en
+default:
+  preferred_langcode:
+    -
+      value: en
+  name:
+    -
+      value: daniel-restricted-editor
+  pass:
+    -
+      value: $S$EzTyFzLTpG0f0bP1CDLhkURNSGU0cTR27ExucoKKziAeJcC0N1NY
+      existing: ''
+      pre_hashed: false
+  timezone:
+    -
+      value: UTC
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 0
+  access:
+    -
+      value: 0
+  login:
+    -
+      value: 0
+  roles:
+    -
+      target_id: restricted_editor
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 1
