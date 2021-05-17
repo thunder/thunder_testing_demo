@@ -30,4 +30,4 @@ default:
       value: drupal
   field_url:
     -
-      value: 'https://twitter.com/drupal/status/731057647877787648'
+      uri: 'https://twitter.com/drupal/status/731057647877787648'
