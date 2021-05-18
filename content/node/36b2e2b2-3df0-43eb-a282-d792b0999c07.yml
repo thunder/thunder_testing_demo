@@ -151,6 +151,10 @@ default:
               uri: 'https://thunder.org'
               title: Thunder.org
               options: {  }
+            -
+              uri: 'internal:/burda-launches-open-source-cms-thunder'
+              title: 'Burda Launches Open-Source CMS Thunder'
+              options: {  }
     -
       entity:
         _meta:
