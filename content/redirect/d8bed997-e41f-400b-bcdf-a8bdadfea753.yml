@@ -17,7 +17,7 @@ default:
       query: {  }
   redirect_redirect:
     -
-      uri: 'internal:/node/6'
+      uri: 'https://www.google.com'
       title: ''
       options: {  }
   status_code:
