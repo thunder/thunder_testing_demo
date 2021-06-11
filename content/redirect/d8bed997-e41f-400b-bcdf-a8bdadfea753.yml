@@ -1,0 +1,28 @@
+_meta:
+  version: '1.0'
+  entity_type: redirect
+  uuid: d8bed997-e41f-400b-bcdf-a8bdadfea753
+  bundle: redirect
+  default_langcode: und
+default:
+  hash:
+    -
+      value: SW2KxN7EUragnxB2_ljHDO6UvFsn-IAr9o1yaE_z_TI
+  uid:
+    -
+      target_id: 1
+  redirect_source:
+    -
+      path: former-url
+      query: {  }
+  redirect_redirect:
+    -
+      uri: 'https://www.google.com'
+      title: ''
+      options: {  }
+  status_code:
+    -
+      value: 301
+  created:
+    -
+      value: 1623338046
