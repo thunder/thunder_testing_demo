@@ -5,6 +5,9 @@ _meta:
   bundle: page
   default_langcode: en
 default:
+  nid:
+    -
+      value: 5
   revision_uid:
     -
       target_id: 1

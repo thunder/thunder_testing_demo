@@ -5,6 +5,9 @@ _meta:
   bundle: tags
   default_langcode: en
 default:
+  tid:
+    -
+      value: 3
   status:
     -
       value: true

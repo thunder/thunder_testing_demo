@@ -11,6 +11,9 @@ _meta:
     02f65ced-6e23-4cba-84a2-9c66fc346481: taxonomy_term
     5378c127-e8b2-4242-877d-d982736a237b: media
 default:
+  nid:
+    -
+      value: 9
   revision_uid:
     -
       entity: 0c604560-c591-4c48-9762-78ce833ec1b9

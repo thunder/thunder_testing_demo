@@ -5,6 +5,9 @@ _meta:
   bundle: channel
   default_langcode: en
 default:
+  tid:
+    -
+      value: 1
   status:
     -
       value: true
