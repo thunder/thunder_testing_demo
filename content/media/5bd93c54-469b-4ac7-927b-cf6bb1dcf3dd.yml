@@ -15,7 +15,7 @@ default:
       target_id: 1
   name:
     -
-      value: 'Lorem ipsum dolor sit amet 2'
+      value: 'Image Two - Lorem ipsum dolor sit amet'
   created:
     -
       value: 1463125220
