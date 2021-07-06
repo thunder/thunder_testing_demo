@@ -7,9 +7,6 @@ _meta:
   depends:
     71acee69-c934-4ee9-87e7-e859f0a11fb3: file
 default:
-  mid:
-    -
-      value: 20
   status:
     -
       value: true

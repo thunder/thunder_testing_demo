@@ -10,9 +10,6 @@ _meta:
     29fed0a1-9ca6-460b-a94f-b8e25eea00bf: media
     d65746ed-6b92-498d-9100-8603be730c71: media
 default:
-  nid:
-    -
-      value: 8
   revision_uid:
     -
       entity: f3ef1092-0149-41f6-a94f-4487a476616d

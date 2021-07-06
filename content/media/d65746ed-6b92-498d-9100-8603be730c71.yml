@@ -9,9 +9,6 @@ _meta:
     5bd93c54-469b-4ac7-927b-cf6bb1dcf3dd: media
     a4b2fa51-8340-4982-b792-92e060b71eb9: media
 default:
-  mid:
-    -
-      value: 18
   status:
     -
       value: true

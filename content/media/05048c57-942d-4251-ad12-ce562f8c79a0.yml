@@ -8,9 +8,6 @@ _meta:
     a317f3cc-34c8-4f27-badf-521b144d4179: file
     35bdba6e-9b45-472a-8fda-11e7e69de71b: taxonomy_term
 default:
-  mid:
-    -
-      value: 10
   status:
     -
       value: true
