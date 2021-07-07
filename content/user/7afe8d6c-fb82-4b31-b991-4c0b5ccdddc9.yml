@@ -14,7 +14,7 @@ default:
     -
       value: $S$EbGGhfVdpq3RPaWKH1ZTfiLsrWI96YPxuPWYfON3NbQ3GvQ.kDIp
       existing: ''
-      pre_hashed: false
+      pre_hashed: true
   timezone:
     -
       value: UTC
