@@ -3,3 +3,9 @@ services:
     class: Drupal\thunder_testing_demo\EventSubscriber\DefaultContentImportSubscriber
     arguments: ['@config.factory']
     tags: [{ name: event_subscriber }]
+  thunder_testing_demo.path_processor_entity_uuid:
+    class: Drupal\thunder_testing_demo\PathProcessor\PathProcessorEntityUuid
+    tags:
+      - { name: path_processor_inbound, priority: 50 }
+    arguments: ['@entity_type.manager']
+

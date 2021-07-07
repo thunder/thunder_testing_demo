@@ -14,7 +14,7 @@ default:
     -
       value: $S$EqMVyCm0f65TUQCLVCVlDiTEFfiqi9v7R3OXOxc/30xO1SwxziTT
       existing: ''
-      pre_hashed: false
+      pre_hashed: true
   timezone:
     -
       value: UTC
