@@ -11,7 +11,7 @@ use Drupal\user\Entity\Role;
  * Implements hook_modules_installed().
  */
 function thunder_testing_demo_modules_installed($modules) {
-  if (in_array('thunder_testing__demo', $modules)) {
+  if (in_array('thunder_testing_demo', $modules)) {
     /** @var \Drupal\Core\Entity\EntityRepositoryInterface $entityRepository */
     $entityRepository = \Drupal::service('entity.repository');
 
