@@ -26,11 +26,31 @@ default:
   sticky:
     -
       value: false
-  revision_translation_affected:
-    -
-      value: true
   path:
     -
-      alias: ''
+      alias: /legal-notice
       langcode: en
-      pathauto: 1
+      pathauto: 0
+  field_paragraphs:
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 793c6f93-14d0-4a69-900e-724432d6eb7c
+          bundle: text
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1646843722
+          behavior_settings:
+            -
+              value: {  }
+          field_text:
+            -
+              value: "<p>The legal notice.</p>\r\n"
+              format: basic_html
