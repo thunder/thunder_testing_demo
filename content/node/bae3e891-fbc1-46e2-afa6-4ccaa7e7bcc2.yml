@@ -30,7 +30,7 @@ default:
     -
       alias: /legal-notice
       langcode: en
-      pathauto: 1 
+      pathauto: 0
   field_paragraphs:
     -
       entity:
