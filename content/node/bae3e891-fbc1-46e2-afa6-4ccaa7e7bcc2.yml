@@ -26,6 +26,9 @@ default:
   sticky:
     -
       value: false
+  revision_translation_affected:
+    -
+      value: true
   path:
     -
       alias: /legal-notice
@@ -50,6 +53,9 @@ default:
           behavior_settings:
             -
               value: {  }
+          revision_translation_affected:
+            -
+              value: true
           field_text:
             -
               value: "<p>The legal notice.</p>\r\n"
