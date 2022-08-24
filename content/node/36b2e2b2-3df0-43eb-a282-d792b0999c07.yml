@@ -9,12 +9,14 @@ _meta:
     0bb70443-8172-4d8e-9335-2876bc32e356: taxonomy_term
     df67621b-518f-4159-a59e-1bad0700800c: media
     f74460a3-1aac-4382-814b-395bfeb75dca: media
+    cef987f7-e9f8-4950-b098-19418e2fda6a: media
+    e3cad5b7-8c50-4096-aea2-9c26cf1dab2a: media
     35bdba6e-9b45-472a-8fda-11e7e69de71b: taxonomy_term
     a4c1035a-5b27-4713-8ba3-40ba5942486d: media
 default:
   revision_uid:
     -
-      entity: be8e7a25-8a41-4bda-a854-b4b9bb1b0a02
+      target_id: 1
   status:
     -
       value: true
@@ -44,6 +46,12 @@ default:
       alias: /come-drupalcon-new-orleans
       langcode: en
       pathauto: 1
+  publish_state:
+    -
+      value: _none
+  unpublish_state:
+    -
+      value: _none
   field_channel:
     -
       entity: 0bb70443-8172-4d8e-9335-2876bc32e356
@@ -180,6 +188,54 @@ default:
             -
               value: "<p><em>\"Flying is learning how to throw yourself at the ground and miss\" (Douglas Adams)</em>.</p>\r\n"
               format: basic_html
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 351d5d3b-54eb-44fd-af65-e456f942ef35
+          bundle: video
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1661327219
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_video:
+            -
+              entity: cef987f7-e9f8-4950-b098-19418e2fda6a
+    -
+      entity:
+        _meta:
+          version: '1.0'
+          entity_type: paragraph
+          uuid: 56705344-aad6-42d7-8899-fb47ef8d040d
+          bundle: pinterest
+          default_langcode: en
+        default:
+          status:
+            -
+              value: true
+          created:
+            -
+              value: 1661327253
+          behavior_settings:
+            -
+              value: {  }
+          revision_translation_affected:
+            -
+              value: true
+          field_media:
+            -
+              entity: e3cad5b7-8c50-4096-aea2-9c26cf1dab2a
   field_seo_title:
     -
       value: 'Come to DrupalCon New Orleans'
