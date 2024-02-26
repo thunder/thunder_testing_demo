@@ -30,4 +30,4 @@ default:
       value: Sam_152
   field_url:
     -
-      value: 'https://twitter.com/Sam_152/status/720267360406364160'
+      uri: 'https://twitter.com/Sam_152/status/720267360406364160'

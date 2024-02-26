@@ -30,4 +30,4 @@ default:
       value: rteijeiro
   field_url:
     -
-      value: 'https://twitter.com/rteijeiro/status/719814039241625600'
+      uri: 'https://twitter.com/rteijeiro/status/719814039241625600'
