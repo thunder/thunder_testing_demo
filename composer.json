@@ -23,7 +23,7 @@
     ],
     "require": {
         "drupal/default_content": "^2.0",
-        "drupal/tour": "^4.0"
+        "drupal/tour": "^2.0"
     }
 }
 
