@@ -67,6 +67,3 @@ default:
   entity_context:
     -
       value: node.article
-  model:
-    -
-      value: azure__thunder_ai_azure
