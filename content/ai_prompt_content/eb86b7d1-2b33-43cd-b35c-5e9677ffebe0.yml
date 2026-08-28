@@ -1,0 +1,25 @@
+_meta:
+  version: '1.0'
+  entity_type: ai_prompt_content
+  uuid: eb86b7d1-2b33-43cd-b35c-5e9677ffebe0
+  bundle: ai_prompt_content
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  label:
+    -
+      value: 'Punchy headline'
+  prompt:
+    -
+      value: 'Write a short, punchy, attention-grabbing headline for this article that would make someone want to click on it. Keep it under 70 characters.'
+  ai_task:
+    -
+      target_id: headline
+  entity_context:
+    -
+      value: node.article
+  model:
+    -
+      value: azure__thunder_ai_azure

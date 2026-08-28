@@ -1,0 +1,25 @@
+_meta:
+  version: '1.0'
+  entity_type: ai_prompt_content
+  uuid: 6ab47d3d-908e-4fa9-a49a-1e05d0d52da2
+  bundle: ai_prompt_content
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  label:
+    -
+      value: 'Draft this article from a brief'
+  prompt:
+    -
+      value: 'If I have not given you a topic or brief for this article yet, ask me for one. Then draft a complete article: propose a headline, an SEO title, a short teaser summary, and an opening paragraph. Use your tools to apply the draft to the open article form as a reviewable change, rather than only describing it in chat.'
+  ai_task:
+    -
+      target_id: writing_assistant
+  entity_context:
+    -
+      value: node.article
+  model:
+    -
+      value: azure__thunder_ai_azure
