@@ -1,0 +1,8 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - thunder_ai_prompt_management
+id: teaser_summary
+label: 'Teaser Summary'
+description: 'Write a short teaser summary for listings.'

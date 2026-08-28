@@ -1,0 +1,8 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - thunder_ai_prompt_management
+id: seo_title
+label: 'SEO Title'
+description: 'Generate a search-optimized meta title.'

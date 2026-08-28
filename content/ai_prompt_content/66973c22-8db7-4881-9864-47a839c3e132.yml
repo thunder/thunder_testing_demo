@@ -1,0 +1,22 @@
+_meta:
+  version: '1.0'
+  entity_type: ai_prompt_content
+  uuid: 66973c22-8db7-4881-9864-47a839c3e132
+  bundle: ai_prompt_content
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  label:
+    -
+      value: 'Review this draft for SEO & clarity'
+  prompt:
+    -
+      value: 'Read the article currently open in this edit form, including any unsaved changes. Check for a missing or weak headline, SEO title, or teaser summary, unclear wording, and structural issues. Summarize what is missing or weak, then use your tools to propose concrete fixes back into the form as a reviewable change.'
+  ai_task:
+    -
+      target_id: writing_assistant
+  entity_context:
+    -
+      value: node.article

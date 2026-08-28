@@ -1,0 +1,8 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - thunder_ai_prompt_management
+id: headline
+label: Headline
+description: 'Suggest headline options for the article.'

@@ -1,0 +1,22 @@
+_meta:
+  version: '1.0'
+  entity_type: ai_prompt_content
+  uuid: 2bde7757-1da2-4602-975e-bfaa22b20170
+  bundle: ai_prompt_content
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  label:
+    -
+      value: 'SEO-friendly headline'
+  prompt:
+    -
+      value: 'Write a clear, keyword-forward headline for this article that describes what it is about and would perform well in search results. Keep it under 70 characters.'
+  ai_task:
+    -
+      target_id: headline
+  entity_context:
+    -
+      value: node.article

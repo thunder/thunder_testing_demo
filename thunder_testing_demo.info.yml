@@ -7,7 +7,17 @@ dependencies:
   - default_content:default_content
   - drupal:help
   - drupal:tour
+  - thunder_ai_prompt_management:thunder_ai_prompt_management
 default_content:
+  ai_prompt_content:
+    - eb86b7d1-2b33-43cd-b35c-5e9677ffebe0
+    - 2bde7757-1da2-4602-975e-bfaa22b20170
+    - cd67b942-d18c-4427-a05a-c81245548961
+    - 6ab47d3d-908e-4fa9-a49a-1e05d0d52da2
+    - 66973c22-8db7-4881-9864-47a839c3e132
+    - 8d822488-7ccf-4485-895b-daf16bdf5cc8
+    - 6b9f8d1b-7a68-44a5-a063-e16cbe5eb1e5
+    - 95fc4367-e114-4993-8196-0bebe1b15853
   taxonomy_term:
     - 0bb70443-8172-4d8e-9335-2876bc32e356
     - bfc251bc-de35-467d-af44-1f7a7012b845

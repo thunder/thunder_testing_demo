@@ -1,0 +1,22 @@
+_meta:
+  version: '1.0'
+  entity_type: ai_prompt_content
+  uuid: 95fc4367-e114-4993-8196-0bebe1b15853
+  bundle: ai_prompt_content
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  label:
+    -
+      value: 'Teaser summary'
+  prompt:
+    -
+      value: 'Write a short, 1-2 sentence teaser summarizing this article for a front-page listing. Make it inviting without repeating the headline verbatim.'
+  ai_task:
+    -
+      target_id: teaser_summary
+  entity_context:
+    -
+      value: node.article

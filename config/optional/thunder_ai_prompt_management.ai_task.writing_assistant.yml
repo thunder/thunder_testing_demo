@@ -1,0 +1,8 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - thunder_ai_prompt_management
+id: writing_assistant
+label: 'Writing Assistant'
+description: 'Prompts for the AI chatbot to draft or review the article directly from the edit form.'
